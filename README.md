@@ -1,10 +1,5 @@
-# cinemaapp
 
-A new Flutter project.
-
-## Getting Started
-
-This is my first Flutter mobile application.
+<B>This is my first Flutter mobile application.<B>
 
 A few resources to get you started if this is your first Flutter project:
 
